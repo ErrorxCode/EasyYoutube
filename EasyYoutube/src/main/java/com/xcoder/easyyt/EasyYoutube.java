@@ -110,9 +110,17 @@ public class EasyYoutube {
             RequestBody body = RequestBody.create(object.toString().getBytes(StandardCharsets.UTF_8));
             builder.addHeader("Authorization","Bearer " + TOKEN);
             switch (method) {
-                case "PUT" -> builder.put(body);
-                case "GET" -> builder.get();
-                case "POST" -> builder.post(body);
+                case "PUT":
+                    builder.put(body);
+                    break;
+
+                case "GET":
+                    builder.get();
+                    break;
+
+                case "POST":
+                    builder.post(body);
+                    break;
             }
         }
 
