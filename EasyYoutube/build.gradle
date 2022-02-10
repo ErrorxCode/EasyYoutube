@@ -21,6 +21,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_16
         targetCompatibility JavaVersion.VERSION_16
     }
+    buildToolsVersion '32.0.0'
 }
 
 dependencies {
