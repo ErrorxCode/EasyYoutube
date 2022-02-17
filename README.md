@@ -35,7 +35,7 @@ allprojects {
 In your module `buil.gradle` (app)
 ```groovy
 dependencies {
-	    implementation 'com.github.ErrorxCode:EasyYoutube:Tag'
+	    implementation 'com.github.ErrorxCode:EasyYoutube:v1.0.0'
 	}
 ```
 
