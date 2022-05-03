@@ -16,6 +16,7 @@ You can edit, see, comment, reply, and can do a lot more things through this lib
 - Increased API quota / quota limit bypassed
 - **Supports** editing title,description and thumbnail (soon)
 - **Supports** fetching of video metadata
+- **Supports** subscribing/unsubscribing
 - **Supports** commenting and replying
 - **Supports** Uploading video (coming soon)
 - **Supports** Many more.... (coming soon)
