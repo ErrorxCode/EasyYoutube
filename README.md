@@ -68,7 +68,7 @@ Add the dependency
 
 
 ## Documentation
-- [User guide](https://developers.google.com/youtube/v3/docs)
+- [User guide](https://github.com/ErrorxCode/EasyYoutube/wiki/User-guide)
 
 
 ## FAQ
